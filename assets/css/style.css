@@ -1,11 +1,11 @@
 .bg-website{
-	background-color: #e87918!important;
+	background-color: #1849e8!important;
 }
 .bg-website-alt{
 	background-color: #fdab63!important;
 }
 .text-website{
-	color: #e87918!important;
+	color: #1849e8!important;
 }
 .active{
 	font-weight: bold;
@@ -16,20 +16,20 @@
 .garis{
 	width: 70%;
 	height: 2px;
-	background: #e87918;
+	background: #1849e8;
 }
 .garis-full{
 	width: 100%;
 	height: 2px;
-	background: #e87918;
+	background: #1849e8;
 }
 .border-gambar{
-	border: 3px solid #e87918;
+	border: 3px solid #1849e8;
 	padding: 4px;
 	border-radius: 100%;
 }
 .link-hover:hover{
-	color: #e87918!important;
+	color: #1849e8!important;
 	text-decoration: none;
 }
 .row-p{
